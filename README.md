@@ -25,4 +25,4 @@ Javascript, HTML, CSS, Python, Flask, SQL
 
 [Python Artificial Intelligence](https://www.codingame.com/certification/NI8GmBiHtJn5-ErMtlfAIw)
 
-[Collaboration](https://www.codingame.com/certification/4KuFEOG7ApHgakcAlOGMRQ)
+[Collaboration]([https://www.codingame.com/certification/4KuFEOG7ApHgakcAlOGMRQ](https://www.codingame.com/certification/NI8GmBiHtJn5-ErMtlfAIw))
