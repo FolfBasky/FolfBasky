@@ -20,3 +20,4 @@ Javascript, HTML, CSS, Python, Flask, SQL
 
 ## 🐲 Codingame
 https://www.codingame.com/certification/yXhIF8D0jylrV0c4G9hKnw
+https://www.codingame.com/certification/EMa_DpV7T8aMOLvVFvz_eg
