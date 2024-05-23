@@ -19,9 +19,9 @@ Javascript, HTML, CSS, Python, Flask, SQL
 ![Codewars](https://github.r2v.ch/codewars?user=FolfBasky&name=true&&top_languages=true&theme=gradient_midnight_puple&hide_clan=true)
 
 ## 🐲 Codingame
-[Python Test](https://www.codingame.com/certification/yXhIF8D0jylrV0c4G9hKnw)
+[PYTHON 3 CERTIFICATIONt](https://www.codingame.com/certification/yXhIF8D0jylrV0c4G9hKnw)
 
-[Python Speed Test](https://www.codingame.com/certification/EMa_DpV7T8aMOLvVFvz_eg)
+[Coding speed (Legend level)](https://www.codingame.com/certification/EMa_DpV7T8aMOLvVFvz_eg)
 
 [Python Artificial Intelligence](https://www.codingame.com/certification/NI8GmBiHtJn5-ErMtlfAIw)
 
