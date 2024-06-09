@@ -23,6 +23,8 @@ Javascript, HTML, CSS, Python, Flask, SQL
 
 [Coding speed (Legend level)](https://www.codingame.com/certification/EMa_DpV7T8aMOLvVFvz_eg)
 
-[Python Artificial Intelligence](https://www.codingame.com/certification/NI8GmBiHtJn5-ErMtlfAIw)
+[Python Artificial Intelligence](https://www.codingame.com/certification/4KuFEOG7ApHgakcAlOGMRQ)
 
 [Collaboration](https://www.codingame.com/certification/NI8GmBiHtJn5-ErMtlfAIw)
+
+[Algorithms](https://www.codingame.com/certification/iRfNE6PL58XdDFBEFf8b_g)
